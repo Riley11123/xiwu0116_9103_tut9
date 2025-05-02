@@ -6,3 +6,6 @@ This is my first local change to repo!
 # Header 1
 ## Heater 2
 ### Heater 3
+
+**Bold Text** or __Bold Text__
+*Italic Text* or _Italic Text_
